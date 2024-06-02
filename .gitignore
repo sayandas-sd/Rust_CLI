@@ -1,4 +1,5 @@
-
-Cargo.lock
+# Ignore target directory
 target/
-.DS_Store
+
+# Ignore Cargo.lock file
+Cargo.lock
